@@ -1,0 +1,14 @@
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\bin\Debug\net6.0\QLThuVien.exe
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\bin\Debug\net6.0\QLThuVien.deps.json
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\bin\Debug\net6.0\QLThuVien.runtimeconfig.json
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\bin\Debug\net6.0\QLThuVien.dll
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\bin\Debug\net6.0\QLThuVien.pdb
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.AssemblyInfoInputs.cache
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.AssemblyInfo.cs
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.dll
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\refint\QLThuVien.dll
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.pdb
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\QLThuVien.genruntimeconfig.cache
+D:\Hoc Tap\Code\QLThuVien2\QLThuVien\QLThuVien\obj\Debug\net6.0\ref\QLThuVien.dll
